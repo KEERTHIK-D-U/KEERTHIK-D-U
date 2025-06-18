@@ -67,10 +67,6 @@ I'm driven by the endless possibilities technology offers to create impact. The 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KEERTHIK-D-U&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=KEERTHIK-D-U&theme=default&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ---
 
 ## 🤝 Connect With Me
