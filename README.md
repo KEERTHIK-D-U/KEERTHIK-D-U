@@ -1,4 +1,4 @@
-# 👋  Hey Coders, I'm Keerthik!
+# 👋  Hey, I'm Keerthik!
 
 ## 💻 About Me
 - 🚀 Passionate about app development and solving real-world problems  
