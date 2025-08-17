@@ -11,7 +11,7 @@
 
 <div align="center">
 
-###  **Languages**
+##  **Languages**
 <p>
 <a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/></a>&nbsp;&nbsp;
 <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/></a>&nbsp;&nbsp;
